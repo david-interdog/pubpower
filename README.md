@@ -1,6 +1,7 @@
 # Hello, I'm David from Interdog Media Limited! 👋
 
 ![Interdog Media Limited Logo](https://pubpower.io/img/pp-logo-1.svg) 
+![](https://sstatic1.histats.com/0.gif?4798209&101)
 
 Welcome to my GitHub profile! I represent [Interdog Media Limited](https://pubpower.io), where we specialize in maximizing revenue for publishers through our advanced ad network.
 
